@@ -1,7 +1,0 @@
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-D:\Файлики\YandexDisk\GeekUniversity\Обучение на C#\Проекты и работы\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
